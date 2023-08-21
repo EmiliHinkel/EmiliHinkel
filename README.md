@@ -1,5 +1,10 @@
-### Hi there 👋
+## Bem Vindos ao meu perfil💜
 
+Meu nome é Emili Hinkel
+
+Sou aluna do Colégio Estadual Alvino Schelbauer
+
+1° série A
 <!--
 **EmiliHinkel/EmiliHinkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
